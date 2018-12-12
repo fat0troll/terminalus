@@ -4,7 +4,10 @@ This is Terminal.app theme, which mimics colors of terminal in [Termius](https:/
 
 ## How to install
 
-1. Download file called ``Terminalus Dark.terminal`` to your desktop
+If you want to install dark theme, download ``Terminalus Dark.terminal`` file.
+If you want to install light theme, download ``Terminalus Light.terminal`` file.
+
+1. Download chosen theme file to your desktop
 2. Open Terminal.app
 3. Open Preferences, go to Profiles tab
 4. On the bottom of left pane find the gear wheel, click it and select Import
@@ -17,7 +20,13 @@ settings are inherited from macOS defaults.
 
 ## Screenshot
 
+### Dark theme
+
 ![Terminalus Dark](img/dark.png)
+
+### Light theme
+
+![Terminalus Light](img/light.png)
 
 Note the prompt theme: it is Stanislav Nikitin's [zsh-config](https://github.com/pztrn/zsh-config)!
 
